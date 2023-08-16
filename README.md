@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aslı Sema Gültekin</h1>
+<h1 align="center">Hi 👋, I'm Aslı Sema</h1>
 <h3 align="center">I am a self-taught backend developer and engineer</h3><br>
 <h4 align="center">🔭 I’m currently working on backend technologies<br><br>👯 I’m looking to collaborate on projects and work with a team</h4><br>
 
